@@ -17,3 +17,6 @@ Develop a simple system for tracking Github projects (public). The above system 
 For adding a Github repository, the user should pass only a Github repo path, like:
 user/repository.
 After adding, the system should in the background request data from the GitHub API and write all required fields to the database.
+
+## Usage
+For now u can use db-init.sql file to create db structure
